@@ -1,5 +1,17 @@
 //profile-title: base64:8J+UpSBXQVJQIPCflKU=
-//profile-update-interval: 24
 
-warp://p1@auto?ifp=40-80&ifps=40-100&ifpd=4-8&ifpm=m4#m4&&detour=warp://p2@auto#WoW1
-warp://p1@auto?ifpm=m4#LocalIP&&detour=warp://p2@auto#WoW2
+warp://p2@auto6?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m6#6
+warp://p2@auto6?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m5#5
+warp://p2@auto6?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#4
+warp://p2@auto6?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m3#3
+
+warp://p1@auto6?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m6#66
+warp://p1@auto6?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m5#55
+warp://p1@auto6?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#44
+warp://p1@auto6?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m3#33
+
+
+warp://p1@auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m6#66ip4
+warp://p1@auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m5#55ip4
+warp://p1@auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#44ip4
+warp://p1@auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m3#33ip4
