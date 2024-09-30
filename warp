@@ -1,7 +1,11 @@
 //profile-title: base64:8J+UpSBXQVJQIPCflKU=
 
-warp://p1@auto6?ifpm=m6#66&&detour=warp://p1@auto6?ifpm=m5#55
-warp://p1@auto6?ifpm=m4#44&&detour=warp://p1@auto6?ifpm=m3#33
+warp://p1@auto6?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m6#66&&detour=warp://p2@auto6?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m6#6
+warp://p1@auto6?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m5#55&&detour=warp://p2@auto6?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m5#5
+warp://p1@auto6?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m4#44&&detour=warp://p2@auto6?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m4#4
+warp://p1@auto6?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m3#33&&detour=warp://p2@auto6?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m3#3
 
-warp://p1@auto?ifpm=m6#66ip4&&detour=warp://p1@auto?ifpm=m5#55ip4
-warp://p1@auto?ifpm=m4#44ip4&&detour=warp://p1@auto?ifpm=m3#33ip4
+warp://p1@auto?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m6#66ip4&&detour=warp://p2@auto?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m6#6ip4
+warp://p1@auto?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m5#55ip4&&detour=warp://p2@auto?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m5#5ip4
+warp://p1@auto?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m4#44ip4&&detour=warp://p2@auto?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m4#4ip4
+warp://p1@auto?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m3#33ip4&&detour=warp://p2@auto?ifp=1-3&ifps=10-30&ifpd=10-30&ifpm=m3#3ip4
